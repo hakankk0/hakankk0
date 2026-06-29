@@ -36,10 +36,10 @@ I am a passionate software developer specializing in desktop applications (WPF/C
 #### [🧠 Zekinatör](https://github.com/hakankk0/Zekinator) *(Flutter, Riverpod, Firebase, Gemini AI)*
 A gamified educational platform for K-12 students. Features AI-powered dynamic question generation using Google Gemini, multi-tier fallback architecture, Firebase authentication, and a scalable Riverpod state management setup. Available on Android and iOS.
 
-#### [🏢 Ajans Yönetim Sistemi](https://github.com/hakankk0/AjansYonetimSistemi) *(C#, .NET 8, WPF, SQLite)*
+#### [🏢 Ajans Yönetim Sistemi](https://github.com/hakankk0/AjansYonetimSistemi) *(C#, .NET 8, WPF, SQLite, Firebase)*
 A comprehensive desktop application built from scratch to manage the end-to-end business operations of digital agencies. Includes Kanban boards, performance analytics, PDF invoicing, multi-currency live tracking, and Firebase cloud syncing. Optimized with custom debounce algorithms.
 
-#### [⚔️ Survival Arena](https://github.com/hakankk0/SurvivalArena) *(C#, WPF, MVVM)*
+#### [⚔️ Survival Arena](https://github.com/hakankk0/SurvivalArena) *(C#, .NET 8, WPF, MVVM, SQLite)*
 A 2D rogue-like survival game built **without external engines**. Uses a custom physics/rendering engine running directly on WPF Canvas. Handled performance optimization using Object Pooling to manage thousands of active entities and eliminate memory leaks.
 
 #### 🎨 UI/UX Design Portfolio (Figma)
